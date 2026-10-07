@@ -37,7 +37,7 @@ Current Goals
 
 Coding Profiles
 
-- GitHub: 
+- GitHub: https://github.com/ishanpawaskar023-sudo
 - LeetCode: https://leetcode.com/u/utki1ynTuQ/
 - LinkedIn: https://www.linkedin.com/in/ishan-pawaskar-07817537b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
